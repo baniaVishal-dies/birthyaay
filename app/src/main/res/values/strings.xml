@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recapt</string>
+    <string name="happy_birthyaay">Happy Birthyaay Vishal!</string>
+    <string name="textview">TextView</string>
+    <string name="Sender_notification">From Deep.</string>
+    <string name="todo">TODO</string>
+</resources>
